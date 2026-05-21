@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="ChatGPT Image May 22, 2026, 12_04_31 AM" src="https://github.com/user-attachments/assets/6a8735c1-e869-4fd1-ac4b-798439393c97" />
 ## Hi there 👋
 
 # 💫 About Me:
