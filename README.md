@@ -58,12 +58,19 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Hks100524&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Hks100524&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hks100524&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hks100524&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hks100524&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hks100524&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
