@@ -2,7 +2,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Full Stack MERN Developer | UI/UX Enthusiast | Building Web Applications & Practical Projects
+💻 Full Stack MERN Developer passionate about building responsive web applications and practical real-world projects.
+
+🎨 Interested in UI/UX design, modern frontend development, and clean user experiences.
+
+🚀 Currently improving my skills in MERN Stack, backend development, and scalable web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitsharma363978@gmail.com) 
