@@ -4,7 +4,7 @@
 # 💫 About Me:
 💻 Full Stack MERN Developer passionate about building responsive web applications and practical real-world projects.
 
-🎨 Interested in UI/UX design, modern frontend development, and clean user experiences.
+🎨 Interested in UI/UX design, modern frontend developmentt, and clean user experiences.
 
 🚀 Currently improving my skills in MERN Stack, backend development, and scalable web applications.
 
