@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-💻 Full Stack Web Developer passionate about building responsive web applications and practical real-world projects. i'm currenlty working on the next.js
+💻 Full Stack Web Developer passionate about building responsive web applications and practical real-world projects. i'm currenlty working on the next.js and projects will we shown on the linkedin.
 
 🎨 Interested in UI/UX design, modern frontend developmentt, and clean user experiences.
 
