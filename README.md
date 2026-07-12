@@ -8,7 +8,7 @@
 
 🚀 Currently improving my skills in MERN Stack, backend development, and scalable web applications.
 
-## 🌐 Socials:
+## 🌐 Socials: hi i'm getting low 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-sharma-1ba6a9302)
 
