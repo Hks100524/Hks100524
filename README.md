@@ -14,6 +14,48 @@
 
 🌱 Currently improving system design, backend architecture, and full-stack development skills.
 
+
+## 🚀 Featured Projects
+
+### 🎯 INTERVO – AI Interview Preparation Platform
+
+AI-powered interview preparation platform built using Next.js, TypeScript, MongoDB Atlas, Gemini AI, JWT Authentication, Google OAuth, Cloudinary and REST APIs.
+
+🔗 Live Demo : https://intervo-azure.vercel.app/
+
+🔗 Repository : https://github.com/Hks100524/INTERVO.git
+
+---
+
+### 💼 SkillUP
+
+Career preparation platform with Aptitude, Learning Modules, DevHub, Job Portal and AI-based Resume Analysis.
+
+🔗 Live Demo : https://skill-up-frontend.onrender.com/
+
+🔗 Repository : https://github.com/Hks100524/Skill_UP.git
+
+---
+
+### 📊 Ad-Fit Analyzer
+
+AI-powered platform that analyzes advertisement copy and landing pages using Gemini AI.
+
+🔗 Live Demo : https://ad-fir-analyzer.vercel.app/
+
+🔗 Repository : https://github.com/Hks100524/ad-fir-analyzer.git
+
+---
+
+### 👨‍💼 Employee Management System
+
+Employee Shift & Attendance Management System with authentication, role management and dashboards.
+
+🔗 Live Demo : https://employee-shift-management-snowy.vercel.app/
+
+🔗 Repository : https://github.com/Hks100524/employee-shift-management.git
+
+
 ## 🌐 Socials: hi i'm getting low 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-sharma-1ba6a9302)
@@ -62,6 +104,23 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 🏆 Certifications
+
+Google Cloud Skills Boost
+
+IBM AI
+
+IBM SQL
+
+Python Bootcamp
+
+
+## 📄 Research Publication
+
+Skill_UP : A Next-Generation Intelligent Platform for Learning, Practice and Skill Mastery in Computer Science Education.
+
+
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -72,8 +131,5 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hks100524&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
