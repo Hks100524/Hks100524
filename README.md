@@ -1,6 +1,8 @@
 <img width="1983" height="793" alt="ChatGPT Image Jun 23, 2026, 07_01_13 AM" src="https://github.com/user-attachments/assets/fd897072-4798-4fdf-9bb5-f4e5f249aec7" />
 
-## Hi there i'm harshit kumar sharma - software developer 
+# Hi 👋, I'm Harshit Kumar Sharma
+
+### Software Engineer | Full Stack Developer | AI-Powered Web Applications
 # 💫 About Me:
 💻 Full Stack Web Developer passionate about building responsive web applications and practical real-world projects , i'm currenlty working on the next.js.
 
