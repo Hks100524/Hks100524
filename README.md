@@ -4,11 +4,15 @@
 
 ### Software Engineer | Full Stack Developer | AI-Powered Web Applications
 # 💫 About Me:
-💻 Full Stack Web Developer passionate about building responsive web applications and practical real-world projects , i'm currenlty working on the next.js.
+💻 Full Stack Developer passionate about building scalable web applications and AI-powered products.
 
-🎨 Interested in UI/UX design, modern frontend developmentt, and clean user experiences.
+🚀 Experienced in React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, and REST APIs.
 
-🚀 Currently improving my skills in MERN Stack, backend development, and scalable web applications.
+🤖 Built AI-powered projects using Gemini AI including Interview Preparation Platform and Ad-Fit Analyzer.
+
+📚 Interested in Software Engineering, Backend Development, AI Integration, and modern web technologies.
+
+🌱 Currently improving system design, backend architecture, and full-stack development skills.
 
 ## 🌐 Socials: hi i'm getting low 
 
