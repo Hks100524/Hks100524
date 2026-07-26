@@ -1,5 +1,4 @@
-![Uploading ChatGPT Image Jul 26, 2026, 11_55_03 PM.png…]()
-
+<img width="1774" height="887" alt="ChatGPT Image Jul 26, 2026, 11_55_03 PM" src="https://github.com/user-attachments/assets/a9909ec4-f9c2-4ba1-9b2b-6158c6211902" />
 
 # Hi 👋, I'm Harshit Kumar Sharma
 
