@@ -125,14 +125,15 @@ Python Bootcamp
 Skill_UP : A Next-Generation Intelligent Platform for Learning, Practice and Skill Mastery in Computer Science Education.
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats : 
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hks100524&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hks100524&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hks100524&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hks100524&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Hks100524&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 
