@@ -12,8 +12,12 @@
 
 📚 Interested in Software Engineering, Backend Development, AI Integration, and modern web technologies.
 
-🌱 Currently improving system design, backend architecture, and full-stack development skills.
+## 🌱 Currently Working On
 
+- 🏗️ Mastering **System Design** & scalable software architecture
+- ⚙️ Building production-ready **Backend APIs** with Node.js, Express.js & MongoDB
+- 🧩 Strengthening **Data Structures & Algorithms** for coding interviews
+- 🤖 Developing **AI-powered Full Stack Applications** using Gemini AI
 
 ## 🚀 Featured Projects
 
