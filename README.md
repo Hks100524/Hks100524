@@ -133,7 +133,7 @@ Skill_UP : A Next-Generation Intelligent Platform for Learning, Practice and Ski
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hks100524&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Hks100524&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 
