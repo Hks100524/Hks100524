@@ -125,15 +125,34 @@ Python Bootcamp
 Skill_UP : A Next-Generation Intelligent Platform for Learning, Practice and Skill Mastery in Computer Science Education.
 
 
-## 📊 GitHub Stats : 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hks100524&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hks100524&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hks100524&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hks100524&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Hks100524&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hks100524&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hks100524/Hks100524/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
